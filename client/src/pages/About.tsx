@@ -20,9 +20,9 @@ const values = [
 
 const team = [
   {
-    nameKey: "about.team.ibrahim.name",
-    roleKey: "about.team.ibrahim.role",
-    bioKey: "about.team.ibrahim.bio",
+    nameKey: "about.team. Khalil.name",
+    roleKey: "about.team. Khalil.role",
+    bioKey: "about.team. Khalil.bio",
     avatar: "Anonymous.jpg",
   },
   {
