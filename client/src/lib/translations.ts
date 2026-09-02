@@ -135,8 +135,8 @@ export const translations = {
       "team": {
         "title": "Our Team",
         "subtitle": "Expert professionals dedicated to your success",
-        " Khalil": {
-          "name": " Khalil.L",
+        "Khalil": {
+          "name": "Khalil.L",
           "role": "Founder & CEO",
           "bio": "Visionary leader with 10+ years of experience in AI and cloud technologies"
         },
@@ -676,8 +676,8 @@ export const translations = {
       "team": {
         "title": "فريقنا",
         "subtitle": "متخصصون مكرسون لنجاحك",
-        " Khalil": {
-          "name": " Khalil.L",
+        "Khalil": {
+          "name": "Khalil.L",
           "role": "المؤسس والرئيس التنفيذي",
           "bio": "قائد رؤيوي بخبرة تزيد عن 10 سنوات في الذكاء الاصطناعي وتقنيات السحابة"
         },
